@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520" role="img" aria-labelledby="t d">
+  <title id="t">Architecture prévue du laboratoire Active Directory</title>
+  <desc id="d">Un serveur de domaine et deux clients Windows reliés à un réseau virtuel isolé.</desc>
+  <rect width="1100" height="520" rx="24" fill="#0f172a"/>
+  <text x="55" y="68" fill="#f8fafc" font-family="Segoe UI,Arial" font-size="34" font-weight="700">Active Directory Security Lab</text>
+  <rect x="390" y="110" width="320" height="250" rx="22" fill="#1d4ed8"/>
+  <text x="550" y="165" text-anchor="middle" fill="white" font-family="Segoe UI,Arial" font-size="28" font-weight="700">SRV-AD01</text>
+  <text x="550" y="215" text-anchor="middle" fill="#dbeafe" font-family="Segoe UI,Arial" font-size="20">AD DS • DNS • DHCP</text>
+  <text x="550" y="253" text-anchor="middle" fill="#dbeafe" font-family="Segoe UI,Arial" font-size="20">OU • Groupes • GPO</text>
+  <text x="550" y="291" text-anchor="middle" fill="#dbeafe" font-family="Segoe UI,Arial" font-size="20">Journaux • Sauvegarde</text>
+  <rect x="65" y="188" width="245" height="150" rx="18" fill="#f8fafc"/>
+  <text x="187" y="245" text-anchor="middle" fill="#0f172a" font-family="Segoe UI,Arial" font-size="24" font-weight="700">CLIENT-01</text>
+  <text x="187" y="286" text-anchor="middle" fill="#475569" font-family="Segoe UI,Arial" font-size="18">Windows 10/11</text>
+  <rect x="790" y="188" width="245" height="150" rx="18" fill="#f8fafc"/>
+  <text x="912" y="245" text-anchor="middle" fill="#0f172a" font-family="Segoe UI,Arial" font-size="24" font-weight="700">CLIENT-02</text>
+  <text x="912" y="286" text-anchor="middle" fill="#475569" font-family="Segoe UI,Arial" font-size="18">Facultatif</text>
+  <g stroke="#5eead4" stroke-width="6"><path d="M310 263h80"/><path d="M710 263h80"/></g>
+  <rect x="215" y="414" width="670" height="54" rx="27" fill="#134e4a"/>
+  <text x="550" y="448" text-anchor="middle" fill="#ccfbf1" font-family="Segoe UI,Arial" font-size="20">Commutateur virtuel interne — réseau isolé — aucune IP publique</text>
+</svg>
+
+
